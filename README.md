@@ -1,2 +1,3 @@
-# breast-tumor-segmentation
-Breast tumor segmentation from ultrasound using deep learning
+# Breast Tumor Segmentation
+   SE-block + Attention U-Net with hybrid loss for breast tumor segmentation on ultrasound images (BUSI + BUS-BRA).
+   
